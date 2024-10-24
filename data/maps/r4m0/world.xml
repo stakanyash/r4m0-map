@@ -2,4 +2,13 @@
 <World
 	name="Object612"
 	class="SgNode"
-	LastId="301330836" />
+	LastId="301330842">
+	<Node
+		name="Object301330840"
+		class="SgAnimatedModelNode"
+		org="1164.869 -1.000 504.817"
+		orgRel="1"
+		rot="-0.0167 -0.9989 -0.0055 0.0425"
+		id="exit"
+		ndmAction="0" />
+</World>
