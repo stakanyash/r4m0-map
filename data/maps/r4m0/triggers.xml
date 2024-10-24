@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <triggers>
-<!-- Тут триггера -->
+<!-- ’гв ваЁЈЈҐа  -->
 	<trigger Name="GlobalVar" active="1">
 		<event timeout="0" eventid="GE_TIME_PERIOD" />
 		<script>
-		    SetGameTime(12,00)
-			AddPlayerVehicle("MirotvorecShot")
-
-			local Pl = GetPlayerVehicle()
-
-			if Pl then
-			    Pl:LimitMaxSpeed(20)
-			end
-
 			trigger:Deactivate()
 		</script>
 	</trigger>

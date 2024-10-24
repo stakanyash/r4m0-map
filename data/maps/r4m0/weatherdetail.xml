@@ -4,22 +4,22 @@
 		name="r4m0_clear">
 		<ColorType
 			name="sunrise"
-			LightmapTexture="lightmap_r4m0_day.dds"
+			LightmapTexture="ltmap_r4m0_rise.dds"
 			CloudsTexture="skyblight.dds" />
 
 		<ColorType
 			name="day"
-			LightmapTexture="lightmap_r4m0_day.dds"
+			LightmapTexture="ltma_r4m0.dds"
 			CloudsTexture="skyblight.dds" />
 
 		<ColorType
 			name="sunset"
-			LightmapTexture="lightmap_r4m0_day.dds"
+			LightmapTexture="ltmap_r4m0_evening.dds"
 			CloudsTexture="skyblight.dds" />
 
 		<ColorType
 			name="night"
-			LightmapTexture="lightmap_r4m0_day.dds"
+			LightmapTexture="ltmap_r4m0_night.dds"
 			CloudsTexture="skyblight.dds" />
 	</WeatherItem>
 </Weather>

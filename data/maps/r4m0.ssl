@@ -9,7 +9,7 @@
 			name="WEATHERTYPE">r4m0_clear</Key>
 
 		<Key
-			name="CURRENTDAYTIME">1</Key>
+			name="CURRENTDAYTIME">3</Key>
 
 		<Key
 			name="PATH">data\maps\r4m0</Key>
@@ -57,7 +57,7 @@
 			name="CUBEMAP">data/models/textures/lobbycube.dds</Key>
 
 		<Key
-			name="LEVELSIZE">16</Key>
+			name="LEVELSIZE">32</Key>
 
 		<Key
 			name="MAXHEIGHT">2500.000</Key>
@@ -84,13 +84,13 @@
 			name="WATERBIGTEX">Water.tga</Key>
 
 		<Key
-			name="WATERABSRED">0.044</Key>
+			name="WATERABSRED">0.000</Key>
 
 		<Key
-			name="WATERABSGREEN">0.031</Key>
+			name="WATERABSGREEN">0.000</Key>
 
 		<Key
-			name="WATERABSBLUE">0.018</Key>
+			name="WATERABSBLUE">41984272.000</Key>
 
 		<Key
 			name="MINSAFEX">40.000</Key>
@@ -99,10 +99,10 @@
 			name="MINSAFEY">40.000</Key>
 
 		<Key
-			name="MAXSAFEX">2008.000</Key>
+			name="MAXSAFEX">4056.000</Key>
 
 		<Key
-			name="MAXSAFEY">2008.000</Key>
+			name="MAXSAFEY">4056.000</Key>
 
 		<Key
 			name="SERVERDYN">DynamicScene.xml</Key>
@@ -126,7 +126,7 @@
 			name="PLAYERPASSMAP">player_passmap.bin</Key>
 
 		<Key
-			name="SERVERS">data\maps\r4m0\servers.xml</Key>
+			name="SERVERS">data\models\servers.xml</Key>
 
 		<Key
 			name="STATICSERVERS">data\models\commonservers.xml</Key>
@@ -213,19 +213,19 @@
 	<Section
 		name="CAMERA">
 		<Key
-			name="X">461.821</Key>
+			name="X">1296.642</Key>
 
 		<Key
-			name="Y">386.152</Key>
+			name="Y">357.148</Key>
 
 		<Key
-			name="Z">1432.465</Key>
+			name="Z">2720.119</Key>
 
 		<Key
-			name="A">23.091</Key>
+			name="A">15.196</Key>
 
 		<Key
-			name="B">-0.459</Key>
+			name="B">-0.025</Key>
 
 		<Key
 			name="G">0.000</Key>

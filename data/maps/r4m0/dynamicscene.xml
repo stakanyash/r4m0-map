@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <DynamicScene
-	LastId="1115">
+	LastId="0">
 	<TargetNamesForDestroy
-		Names="urod1 urod2 urod3 urod4 urod5 urod6 urod7 urod8 urod9" />
+		Names="" />
 
 	<Object
 		Name="Player1"

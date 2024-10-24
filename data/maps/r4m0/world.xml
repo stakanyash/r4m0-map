@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <World
-	name="Object307"
+	name="Object612"
 	class="SgNode"
-	LastId="76474575">
-	<Node
-		name="Object76474574"
-		class="SgAnimatedModelNode"
-		org="655.752 0.000 1302.842"
-		orgRel="1"
-		id="crag_desert_6"
-		ndmAction="0" />
-</World>
+	LastId="301330836" />
