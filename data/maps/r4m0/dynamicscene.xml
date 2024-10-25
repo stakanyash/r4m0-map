@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <DynamicScene
-	LastId="1">
+	LastId="2">
 	<TargetNamesForDestroy
 		Names="" />
 
@@ -10,9 +10,16 @@
 		Prototype="player" />
 
 	<Object
-		Name="TestSpawn_loc"
+		Name="ExitR4M1"
 		Belong="1100"
 		Prototype="genericLocation"
-		Pos="1171.235 255.000 553.888"
-		Radius="10.000" />
+		Pos="1171.235 262.090 553.888"
+		Radius="100.000" />
+
+	<Object
+		Name="ExitR1M1"
+		Belong="1001"
+		Prototype="genericLocation"
+		Pos="2007.794 262.187 3524.330"
+		Radius="100.000" />
 </DynamicScene>
