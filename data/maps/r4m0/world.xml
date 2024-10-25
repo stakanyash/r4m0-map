@@ -2,7 +2,7 @@
 <World
 	name="Object612"
 	class="SgNode"
-	LastId="301330866">
+	LastId="301330874">
 	<Node
 		name="Object301330840"
 		class="SgAnimatedModelNode"
@@ -189,6 +189,62 @@
 		org="1629.753 0.000 2463.006"
 		orgRel="1"
 		rot="-0.0136 0.9772 0.2010 0.0662"
+		id="ostov"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330867"
+		class="SgAnimatedModelNode"
+		org="1391.924 0.000 2231.437"
+		orgRel="1"
+		id="poddon"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330868"
+		class="SgAnimatedModelNode"
+		org="1955.311 0.000 2229.903"
+		orgRel="1"
+		id="bochka2"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330869"
+		class="SgAnimatedModelNode"
+		org="1365.740 0.000 2231.022"
+		orgRel="1"
+		id="factory_conteiner2"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330870"
+		class="SgAnimatedModelNode"
+		org="1349.377 0.000 2247.083"
+		orgRel="1"
+		id="bochka3"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330871"
+		class="SgAnimatedModelNode"
+		org="1981.934 0.000 2344.101"
+		orgRel="1"
+		id="esmin"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330872"
+		class="SgAnimatedModelNode"
+		org="1754.312 0.000 2116.154"
+		orgRel="1"
+		id="boevoy"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330873"
+		class="SgAnimatedModelNode"
+		org="1572.458 0.000 2090.243"
+		orgRel="1"
 		id="ostov"
 		ndmAction="0" />
 </World>
