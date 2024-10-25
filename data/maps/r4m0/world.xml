@@ -2,7 +2,7 @@
 <World
 	name="Object612"
 	class="SgNode"
-	LastId="301330965">
+	LastId="301330966">
 	<Node
 		name="Object301330840"
 		class="SgAnimatedModelNode"
@@ -855,5 +855,15 @@
 		orgRel="1"
 		rot="-0.1515 -0.2466 0.2410 0.9264"
 		id="esmin"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330965"
+		class="SgAnimatedModelNode"
+		org="1696.623 -3.993 2338.806"
+		orgRel="1"
+		rot="-0.0209 -0.8185 -0.0378 0.5729"
+		scale="2.400 2.400 2.400"
+		id="mayak"
 		ndmAction="0" />
 </World>

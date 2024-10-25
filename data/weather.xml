@@ -2936,7 +2936,7 @@
 		waterSpeed="0.520"
 		waterWaveHBig="0.000"
 		waterWaveHSmall="0.000"
-		waterWaveSizeBig="1.000"
+		waterWaveSizeBig="0.500"
 		waterWaveSizeSmall="1.000"
 		waterCourseAngle="0.000"
 		waterSpecularM="200.000"
@@ -2944,14 +2944,14 @@
 		<Sky
 			sunriseColor="128.000 128.000 128.000"
 			dayColor="255.000 255.000 132.000"
-			sunsetColor="255.000 190.000 83.000"
-			nightColor="201.000 131.000 1.000" />
+			sunsetColor="255.000 163.000 9.000"
+			nightColor="50.000 48.000 48.000" />
 
 		<Fog
 			sunriseColor="254.000 215.000 133.000"
 			dayColor="255.000 255.000 132.000"
-			sunsetColor="255.000 190.000 83.000"
-			nightColor="0.000 0.000 7.650" />
+			sunsetColor="255.000 193.000 79.000"
+			nightColor="50.000 48.000 48.000" />
 
 		<Ambient
 			sunriseColor="128.000 128.000 128.000"
@@ -2984,10 +2984,10 @@
 			nightColor="64.000 64.000 64.000" />
 
 		<PostEffect
-			sunrise="wDay_r1m1"
-			day="wDay_r1m1"
-			sunset="wDay_r1m1"
-			night="wDay_r1m1" />
+			sunrise="wr4m0_day"
+			day="wr4m0_day"
+			sunset="wr4m0_day"
+			night="wr4m0_day" />
 
 		<ShadowVisibility
 			sunrise="1"

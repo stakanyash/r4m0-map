@@ -2584,7 +2584,7 @@
 
 		<Unit
 			VarName="Sepia"
-			InitVal="1.000"
+			InitVal="0.000"
 			Param1="0"
 			Param2="0"
 			Param3="0"
@@ -10234,7 +10234,7 @@
 
 		<Unit
 			VarName="Sepia"
-			InitVal="0.000"
+			InitVal="1.000"
 			Param1="0"
 			Param2="0"
 			Param3="0"
@@ -10243,7 +10243,7 @@
 
 		<Unit
 			VarName="SepiaIntensity"
-			InitVal="0.000"
+			InitVal="0.140"
 			Param1="0"
 			Param2="0"
 			Param3="0"
