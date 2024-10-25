@@ -2,7 +2,7 @@
 <World
 	name="Object612"
 	class="SgNode"
-	LastId="301330842">
+	LastId="301330866">
 	<Node
 		name="Object301330840"
 		class="SgAnimatedModelNode"
@@ -10,5 +10,185 @@
 		orgRel="1"
 		rot="-0.0167 -0.9989 -0.0055 0.0425"
 		id="exit"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330842"
+		class="SgAnimatedModelNode"
+		org="773.543 0.000 540.786"
+		orgRel="1"
+		id="minonos"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330843"
+		class="SgAnimatedModelNode"
+		org="1703.691 -28.000 1024.284"
+		orgRel="1"
+		rot="0.1197 0.2550 0.0248 0.9592"
+		id="torgovy"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330844"
+		class="SgAnimatedModelNode"
+		org="1662.731 -6.983 571.359"
+		orgRel="1"
+		rot="0.0338 0.0138 -0.0853 0.9957"
+		id="2_ribasky"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330845"
+		class="SgAnimatedModelNode"
+		org="950.027 -31.785 1316.994"
+		orgRel="1"
+		rot="-0.1583 0.6077 0.1191 0.7691"
+		id="esmin"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330846"
+		class="SgAnimatedModelNode"
+		org="974.926 0.000 1328.700"
+		orgRel="1"
+		id="mina"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330847"
+		class="SgAnimatedModelNode"
+		org="970.513 0.000 1295.111"
+		orgRel="1"
+		id="mina"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330848"
+		class="SgAnimatedModelNode"
+		org="880.030 0.000 1275.521"
+		orgRel="1"
+		id="mina"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330849"
+		class="SgAnimatedModelNode"
+		org="896.898 0.000 1247.984"
+		orgRel="1"
+		id="mina"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330850"
+		class="SgAnimatedModelNode"
+		org="1620.290 0.000 1056.768"
+		orgRel="1"
+		id="mina"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330851"
+		class="SgAnimatedModelNode"
+		org="1683.810 0.000 1052.494"
+		orgRel="1"
+		id="mina"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330852"
+		class="SgAnimatedModelNode"
+		org="1672.847 0.000 563.921"
+		orgRel="1"
+		id="mina"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330853"
+		class="SgAnimatedModelNode"
+		org="1050.408 0.000 785.905"
+		orgRel="1"
+		id="ostov"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330854"
+		class="SgAnimatedModelNode"
+		org="1435.366 0.000 816.446"
+		orgRel="1"
+		id="boevoy"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330856"
+		class="SgAnimatedModelNode"
+		org="1385.991 0.000 2259.018"
+		orgRel="1"
+		id="minonos"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330858"
+		class="SgAnimatedModelNode"
+		org="1625.285 0.000 2626.264"
+		orgRel="1"
+		id="shlupka"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330859"
+		class="SgAnimatedModelNode"
+		org="1367.077 0.000 2289.207"
+		orgRel="1"
+		id="shlupka"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330860"
+		class="SgAnimatedModelNode"
+		org="1289.734 0.000 2579.380"
+		orgRel="1"
+		id="shlupka"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330861"
+		class="SgAnimatedModelNode"
+		org="1096.135 0.000 2480.631"
+		orgRel="1"
+		id="shlupka"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330862"
+		class="SgAnimatedModelNode"
+		org="1543.640 0.000 1892.365"
+		orgRel="1"
+		id="shlupka"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330863"
+		class="SgAnimatedModelNode"
+		org="1536.599 0.000 2108.854"
+		orgRel="1"
+		id="shlupka"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330864"
+		class="SgAnimatedModelNode"
+		org="1686.336 0.000 2094.336"
+		orgRel="1"
+		id="shlupka"
+		ndmAction="0" />
+
+	<Node
+		name="Object301330865"
+		class="SgAnimatedModelNode"
+		org="1629.753 0.000 2463.006"
+		orgRel="1"
+		rot="-0.0136 0.9772 0.2010 0.0662"
+		id="ostov"
 		ndmAction="0" />
 </World>
