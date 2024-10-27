@@ -2996,9 +2996,9 @@
 			night="1" />
 
 		<ShadowTransparency
-			sunrise="0.500"
-			day="0.500"
-			sunset="0.500"
+			sunrise="14.000"
+			day="37.000"
+			sunset="7.000"
 			night="0.500" />
 
 		<cloudsSpeed
