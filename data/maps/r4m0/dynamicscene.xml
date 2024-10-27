@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <DynamicScene
-	LastId="8">
+	LastId="12">
 	<TargetNamesForDestroy
 		Names="" />
 
@@ -10,30 +10,30 @@
 		Prototype="player" />
 
 	<Object
-		Name="FromR4M1"
-		Belong="1100"
-		Prototype="genericLocation"
-		Pos="1167.619 258.070 525.170"
-		Radius="10.000" />
-
-	<Object
 		Name="ExitToR4M1"
 		Belong="1100"
 		Prototype="genericLocation"
-		Pos="1165.786 256.703 514.824"
-		Radius="50.000" />
+		Pos="1158.675 280.131 272.036"
+		Radius="68.000" />
+
+	<Object
+		Name="FromR4M1"
+		Belong="1100"
+		Prototype="genericLocation"
+		Pos="1159.151 280.063 361.451"
+		Radius="10.000" />
 
 	<Object
 		Name="ExitToR1M1"
 		Belong="1100"
 		Prototype="genericLocation"
-		Pos="2016.039 264.339 3549.202"
-		Radius="50.000" />
+		Pos="2073.828 264.091 3706.732"
+		Radius="84.000" />
 
 	<Object
 		Name="FromR1M1"
 		Belong="1100"
 		Prototype="genericLocation"
-		Pos="2009.841 262.776 3528.312"
+		Pos="2032.277 261.988 3591.519"
 		Radius="10.000" />
 </DynamicScene>
