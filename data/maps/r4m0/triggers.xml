@@ -12,7 +12,7 @@
 
 <!-- Триггер для теста карты -->
 
-    <trigger Name="TestCar" active="0">
+    <trigger Name="TestCar" active="1">
 		<event timeout="0" eventid="GE_TIME_PERIOD" />
 		<script>
             AddPlayerVehicle("MirotvorecShot")
