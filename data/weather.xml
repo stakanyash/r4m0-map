@@ -2930,7 +2930,7 @@
 	</WeatherItem>
 
 	<WeatherItem
-		class="WeatherClear"
+		class="WeatherFoggy"
 		name="r4m0_clear"
 		skyDomeFactor="2.000"
 		waterSpeed="0.520"
@@ -2940,7 +2940,8 @@
 		waterWaveSizeSmall="1.000"
 		waterCourseAngle="0.000"
 		waterSpecularM="200.000"
-		waterSpecularS="0.005">
+		waterSpecularS="0.005"
+		reduceDistFactor="0.469">
 		<Sky
 			sunriseColor="128.000 128.000 128.000"
 			dayColor="255.000 255.000 132.000"
