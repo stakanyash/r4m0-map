@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <DynamicScene
-	LastId="12">
+	LastId="18">
 	<TargetNamesForDestroy
 		Names="" />
 
@@ -640,4 +640,46 @@
 				y="2544.752" />
 		</DropOut>
 	</Object>
+
+	<Object
+		Name="SecretPlace1_loc"
+		Belong="1100"
+		Prototype="genericLocation"
+		Pos="1953.578 255.000 2335.979"
+		Radius="10.000" />
+
+	<Object
+		Name="SecretPlace2_loc"
+		Belong="1100"
+		Prototype="genericLocation"
+		Pos="3819.196 255.000 1885.280"
+		Radius="10.000" />
+
+	<Object
+		Name="SecretPlace3_loc"
+		Belong="1100"
+		Prototype="genericLocation"
+		Pos="454.384 266.619 1837.025"
+		Radius="10.000" />
+
+	<Object
+		Name="SecretPlace4_loc"
+		Belong="1100"
+		Prototype="genericLocation"
+		Pos="529.255 255.155 341.612"
+		Radius="10.000" />
+
+	<Object
+		Name="SecretPlace5_loc"
+		Belong="1100"
+		Prototype="genericLocation"
+		Pos="566.988 276.470 3590.454"
+		Radius="10.000" />
+
+	<Object
+		Name="SecretPlace6_loc"
+		Belong="1100"
+		Prototype="genericLocation"
+		Pos="2122.237 257.733 1252.507"
+		Radius="10.000" />
 </DynamicScene>
