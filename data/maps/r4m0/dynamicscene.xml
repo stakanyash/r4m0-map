@@ -10,30 +10,40 @@
 		Prototype="player" />
 
 	<Object
-		Name="ExitToR4M1"
-		Belong="1100"
-		Prototype="genericLocation"
-		Pos="1158.675 280.131 272.036"
-		Radius="68.000" />
-
-	<Object
 		Name="FromR4M1"
 		Belong="1100"
 		Prototype="genericLocation"
 		Pos="1159.151 280.063 361.451"
-		Radius="10.000" />
-
-	<Object
-		Name="ExitToR1M1"
-		Belong="1100"
-		Prototype="genericLocation"
-		Pos="2073.828 264.091 3706.732"
-		Radius="84.000" />
+		Radius="10.000" 
+		ExitLocation="ExitToR4M1" />
 
 	<Object
 		Name="FromR1M1"
 		Belong="1100"
 		Prototype="genericLocation"
 		Pos="2032.277 261.988 3591.519"
-		Radius="10.000" />
+		Radius="10.000" 
+		ExitLocation="ExitToR1M1" />
+
+	<Object
+		Flags="21"
+		Name="ExitToR4M1"
+		Belong="1100"
+		Prototype="genericLocation"
+		Pos="1158.675 280.131 272.036"
+		Radius="68.000"
+		LookingTimeOut="100.000"
+		PassageAddress="r4m1 FromR1M1"
+		PassageActive="0" />
+
+	<Object
+		Flags="21"
+		Name="ExitToR1M1"
+		Belong="1100"
+		Prototype="genericLocation"
+		Pos="2073.828 264.091 3706.732"
+		Radius="84.000"
+		LookingTimeOut="100.000"
+		PassageAddress="r1m1 FromR4M0"
+		PassageActive="0" />
 </DynamicScene>

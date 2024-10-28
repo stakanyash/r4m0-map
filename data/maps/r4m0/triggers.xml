@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <triggers>
-<!-- Триггер для теста карты -->
+<!-- GlobalVar -->
 	<trigger Name="GlobalVar" active="1">
+		<event timeout="0" eventid="GE_TIME_PERIOD" />
+		<script>
+        SetRadarUpgrade(1)
+
+		trigger:Deactivate()
+		</script>
+	</trigger>
+
+<!-- Триггер для теста карты -->
+
+    <trigger Name="TestCar" active="0">
 		<event timeout="0" eventid="GE_TIME_PERIOD" />
 		<script>
             AddPlayerVehicle("MirotvorecShot")
@@ -31,12 +42,12 @@
 				local b = SpawnMessageBox( "8801" )
 
 			    if b == 1 then
-				    PassToMap("r4m1", "FromR1M1", -1 )
+				    PassToMap("r4m1", "FromR4M0", -1 )
 			    else
                     Pl:SetGamePositionOnGround(CVector(getPos("FromR4M1")))
 				    Pl:SetRotation(Quaternion(-0.081, -0.019, -0.007, -0.997))
+					TActivate("R4M1ExitRefuse_rolik")
 				end
-			    TActivate("R4M1ExitRefuse_rolik")
 			end
  		</script>
 	</trigger>
@@ -53,12 +64,12 @@
 				local b = SpawnMessageBox( "8801" )
 
 			    if b == 1 then
-				    PassToMap("r1m1", "FromR4M1", -1 )
+				    PassToMap("r1m1", "FromR4M0", -1 )
 			    else
                     Pl:SetGamePositionOnGround(CVector(getPos("FromR1M1")))
 				    Pl:SetRotation(Quaternion(0.048, 0.982, 0.052, -0.173))
+					TActivate("R1M1ExitRefuse_rolik")
 				end
-			    TActivate("R1M1ExitRefuse_rolik")
 			end
  		</script>
 	</trigger>

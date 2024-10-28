@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
-<!--
-‘®Ї®бв ў«Ґ­ЁҐ Ё¬Ґ­ ®ЎкҐЄв®ў б ­ §ў ­Ёп¬Ё ў Ё­ҐадҐ©бҐ.
-ЏаЁ¬Ґа:
-
-	<Object
-		Name="TheOlme"
-		FullName="Ћ‹њЊ" />
-
-	<Object
-		Name="Olme_Shop"
-		FullName="Њ Ј §Ё­" />
-
-
--->
 <ObjectNames>
+
+    <Object
+		Name="ExitToR4M1"
+		FullName="Дорога в Вахат" />
+
+	<Object
+		Name="ExitToR1M1"
+		FullName="Дорога в Край" />
 
 </ObjectNames>
