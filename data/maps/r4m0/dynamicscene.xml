@@ -85,6 +85,26 @@
 			<Point
 				x="1436.777"
 				y="1066.804" />
+
+			<Point
+				x="1052.097"
+				y="942.845" />
+
+			<Point
+				x="1123.896"
+				y="1013.326" />
+
+			<Point
+				x="1127.208"
+				y="1146.835" />
+
+			<Point
+				x="1527.482"
+				y="1213.649" />
+
+			<Point
+				x="1620.959"
+				y="897.833" />
 		</DropOut>
 	</Object>
 
@@ -142,6 +162,26 @@
 			<Point
 				x="1490.577"
 				y="1639.955" />
+
+			<Point
+				x="1160.424"
+				y="1807.010" />
+
+			<Point
+				x="1612.577"
+				y="1404.542" />
+
+			<Point
+				x="1054.657"
+				y="1711.786" />
+
+			<Point
+				x="1129.958"
+				y="2195.044" />
+
+			<Point
+				x="1160.436"
+				y="2120.710" />
 		</DropOut>
 	</Object>
 
@@ -682,4 +722,286 @@
 		Prototype="genericLocation"
 		Pos="2122.237 257.733 1252.507"
 		Radius="10.000" />
+
+	<Object
+		Name="Bezumtsi11"
+		Belong="1062"
+		Prototype="InfectionZone"
+		InfectionTeamPrototypeName="r4m1BezumtsiTeam"
+		DropOutTimeOut="30.000"
+		InfectionLair="r4m1BezumtsiTeam"
+		HadPlayerInside="0">
+		<Polygon>
+			<Point
+				x="3836.858"
+				y="897.829" />
+
+			<Point
+				x="3647.488"
+				y="1191.984" />
+
+			<Point
+				x="3844.816"
+				y="1350.869" />
+		</Polygon>
+
+		<DropOut>
+			<Point
+				x="3615.511"
+				y="1127.344" />
+
+			<Point
+				x="3884.746"
+				y="1292.479" />
+
+			<Point
+				x="3803.027"
+				y="1227.044" />
+
+			<Point
+				x="3643.510"
+				y="895.095" />
+
+			<Point
+				x="3886.758"
+				y="938.687" />
+		</DropOut>
+	</Object>
+
+	<Object
+		Name="Bezumtsi12"
+		Belong="1062"
+		Prototype="InfectionZone"
+		InfectionTeamPrototypeName="r4m1BezumtsiTeam"
+		DropOutTimeOut="30.000"
+		InfectionLair="r4m1BezumtsiTeam"
+		HadPlayerInside="0">
+		<Polygon>
+			<Point
+				x="3547.717"
+				y="453.927" />
+
+			<Point
+				x="3096.968"
+				y="505.331" />
+
+			<Point
+				x="3630.546"
+				y="795.898" />
+		</Polygon>
+
+		<DropOut>
+			<Point
+				x="3176.299"
+				y="465.681" />
+
+			<Point
+				x="3470.763"
+				y="503.459" />
+
+			<Point
+				x="3718.409"
+				y="663.819" />
+
+			<Point
+				x="3201.329"
+				y="718.703" />
+
+			<Point
+				x="3406.530"
+				y="769.803" />
+
+			<Point
+				x="3486.681"
+				y="890.585" />
+		</DropOut>
+	</Object>
+
+	<Object
+		Name="Bezumtsi13"
+		Belong="1062"
+		Prototype="InfectionZone"
+		InfectionTeamPrototypeName="r4m1BezumtsiTeam"
+		DropOutTimeOut="30.000"
+		InfectionLair="r4m1BezumtsiTeam"
+		HadPlayerInside="0">
+		<Polygon>
+			<Point
+				x="2858.696"
+				y="377.216" />
+
+			<Point
+				x="2462.806"
+				y="588.484" />
+
+			<Point
+				x="3007.048"
+				y="594.433" />
+		</Polygon>
+
+		<DropOut>
+			<Point
+				x="2605.226"
+				y="469.337" />
+
+			<Point
+				x="2784.234"
+				y="413.755" />
+
+			<Point
+				x="2725.463"
+				y="638.631" />
+
+			<Point
+				x="2892.876"
+				y="597.893" />
+
+			<Point
+				x="2947.916"
+				y="406.680" />
+		</DropOut>
+	</Object>
+
+	<Object
+		Name="Bezumtsi14"
+		Belong="1062"
+		Prototype="InfectionZone"
+		InfectionTeamPrototypeName="r4m1BezumtsiTeam"
+		DropOutTimeOut="30.000"
+		InfectionLair="r4m1BezumtsiTeam"
+		HadPlayerInside="0">
+		<Polygon>
+			<Point
+				x="2375.408"
+				y="628.926" />
+
+			<Point
+				x="2504.027"
+				y="868.441" />
+
+			<Point
+				x="2133.642"
+				y="868.082" />
+		</Polygon>
+
+		<DropOut>
+			<Point
+				x="2516.755"
+				y="784.081" />
+
+			<Point
+				x="2164.896"
+				y="753.535" />
+
+			<Point
+				x="2265.566"
+				y="671.596" />
+
+			<Point
+				x="2276.752"
+				y="1014.556" />
+
+			<Point
+				x="2144.933"
+				y="960.142" />
+
+			<Point
+				x="2419.902"
+				y="637.130" />
+
+			<Point
+				x="2445.070"
+				y="833.234" />
+		</DropOut>
+	</Object>
+
+	<Object
+		Name="Bezumtsi15"
+		Belong="1062"
+		Prototype="InfectionZone"
+		InfectionTeamPrototypeName="r4m1BezumtsiTeam"
+		DropOutTimeOut="30.000"
+		InfectionLair="r4m1BezumtsiTeam"
+		HadPlayerInside="0">
+		<Polygon>
+			<Point
+				x="2078.520"
+				y="1259.509" />
+
+			<Point
+				x="1537.064"
+				y="1337.902" />
+
+			<Point
+				x="2060.614"
+				y="984.965" />
+		</Polygon>
+
+		<DropOut>
+			<Point
+				x="2006.089"
+				y="979.372" />
+
+			<Point
+				x="1861.119"
+				y="1184.210" />
+
+			<Point
+				x="1855.234"
+				y="1319.776" />
+
+			<Point
+				x="2022.719"
+				y="1348.187" />
+
+			<Point
+				x="1513.591"
+				y="1312.650" />
+		</DropOut>
+	</Object>
+
+	<Object
+		Name="Bezumtsi16"
+		Belong="1062"
+		Prototype="InfectionZone"
+		InfectionTeamPrototypeName="r4m1BezumtsiTeam"
+		DropOutTimeOut="30.000"
+		InfectionLair="r4m1BezumtsiTeam"
+		HadPlayerInside="0">
+		<Polygon>
+			<Point
+				x="2335.350"
+				y="1031.376" />
+
+			<Point
+				x="2621.969"
+				y="1169.198" />
+
+			<Point
+				x="2654.932"
+				y="825.501" />
+		</Polygon>
+
+		<DropOut>
+			<Point
+				x="2696.152"
+				y="938.275" />
+
+			<Point
+				x="2681.223"
+				y="1105.155" />
+
+			<Point
+				x="2443.333"
+				y="1146.919" />
+
+			<Point
+				x="2336.895"
+				y="964.001" />
+
+			<Point
+				x="2607.690"
+				y="788.879" />
+		</DropOut>
+	</Object>
 </DynamicScene>
