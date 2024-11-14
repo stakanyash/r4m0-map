@@ -2,7 +2,7 @@
 <World
 	name="Object612"
 	class="SgNode"
-	LastId="301331072">
+	LastId="301331083">
 	<Node
 		name="Object301330842"
 		class="SgAnimatedModelNode"
@@ -964,16 +964,6 @@
 		id="dozerChassis"
 		ndmAction="0"
 		skin="8" />
-
-	<Node
-		name="Object301331043"
-		class="SgAnimatedModelNode"
-		org="1789.302 0.000 3694.192"
-		orgRel="1"
-		rot="0.6577 0.0000 0.0000 0.7533"
-		scale="2.000 2.000 2.000"
-		id="dozerSusp01"
-		ndmAction="0" />
 
 	<Node
 		name="Object301331044"

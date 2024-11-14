@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <DynamicScene
-	LastId="18">
+	LastId="19">
 	<TargetNamesForDestroy
 		Names="" />
 
@@ -21,7 +21,7 @@
 		Name="FromR1M1"
 		Belong="1100"
 		Prototype="genericLocation"
-		Pos="2032.277 261.988 3591.519"
+		Pos="2032.277 257.498 3591.519"
 		Radius="10.000"
 		ExitLocation="ExitToR1M1" />
 
@@ -41,7 +41,7 @@
 		Name="ExitToR1M1"
 		Belong="1100"
 		Prototype="genericLocation"
-		Pos="2073.828 264.091 3706.732"
+		Pos="2073.828 262.520 3706.732"
 		Radius="84.000"
 		LookingTimeOut="100.000"
 		PassageAddress="r1m1 FromR4M0"
@@ -708,14 +708,7 @@
 		Prototype="genericLocation"
 		Pos="529.255 255.155 341.612"
 		Radius="10.000" />
-
-	<Object
-		Name="SecretPlace5_loc"
-		Belong="1100"
-		Prototype="genericLocation"
-		Pos="566.988 276.470 3590.454"
-		Radius="10.000" />
-
+	
 	<Object
 		Name="SecretPlace6_loc"
 		Belong="1100"
@@ -1004,4 +997,11 @@
 				y="788.879" />
 		</DropOut>
 	</Object>
+
+	<Object
+		Name="SecretPlace5_loc"
+		Belong="1100"
+		Prototype="genericLocation"
+		Pos="691.666 265.881 3850.454"
+		Radius="10.000" />
 </DynamicScene>
