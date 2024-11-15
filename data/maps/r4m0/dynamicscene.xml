@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <DynamicScene
-	LastId="19">
+	LastId="24">
 	<TargetNamesForDestroy
 		Names="" />
 
@@ -13,7 +13,7 @@
 		Name="FromR4M1"
 		Belong="1100"
 		Prototype="genericLocation"
-		Pos="1159.151 280.063 361.451"
+		Pos="1164.747 268.672 416.754"
 		Radius="10.000"
 		ExitLocation="ExitToR4M1" />
 
@@ -21,7 +21,7 @@
 		Name="FromR1M1"
 		Belong="1100"
 		Prototype="genericLocation"
-		Pos="2032.277 257.498 3591.519"
+		Pos="2018.894 257.542 3522.749"
 		Radius="10.000"
 		ExitLocation="ExitToR1M1" />
 
