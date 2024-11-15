@@ -41,7 +41,7 @@
 		Name="ExitToR1M1"
 		Belong="1100"
 		Prototype="genericLocation"
-		Pos="2073.828 262.520 3706.732"
+		Pos="2073.828 262.516 3706.732"
 		Radius="84.000"
 		LookingTimeOut="100.000"
 		PassageAddress="r1m1 FromR4M0"
@@ -708,7 +708,7 @@
 		Prototype="genericLocation"
 		Pos="529.255 255.155 341.612"
 		Radius="10.000" />
-	
+
 	<Object
 		Name="SecretPlace6_loc"
 		Belong="1100"
